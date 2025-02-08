@@ -59,7 +59,19 @@
           <mxGeometry x="80" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sIcSl6QBLDS8RnbMVan6-19" value="data is manipulated" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="110" height="30" as="geometry" />
+          <mxGeometry x="90" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sIcSl6QBLDS8RnbMVan6-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.02;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=2;" edge="1" parent="1" source="sIcSl6QBLDS8RnbMVan6-5" target="sIcSl6QBLDS8RnbMVan6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIcSl6QBLDS8RnbMVan6-23" value="Dynamic Page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sIcSl6QBLDS8RnbMVan6-25" value="page request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
